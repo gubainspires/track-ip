@@ -37,4 +37,4 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Find Me on :
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/dunstanguba)
+[![Instagram](https://img.shields.io/badge/IG-%40dunstan.guba-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/dunstanguba)
